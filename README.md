@@ -3,7 +3,7 @@
 Welcome to my advanced, multi-vendor network simulation project. This lab is designed to bridge theoretical concepts from my CCNP Enterprise (ENARSI) studies into a practical, live enterprise environment, simulating real-world interoperability across Cisco, Juniper, and Fortinet platforms.
 
 ## 📐 Network Topology
-![Topology Blueprint](topology.jpg)
+![Topology](topology.jpg)
 
 ---
 
